@@ -6,8 +6,13 @@ Web2badge is a system composed of a physycal badge with an LCD, a gateway that c
 
 Content
 -------
-web2badge-gateway repository have all electronic; firmware and mechanical info of the physicall gateway. 
+web2badge-gateway repository have all electronic; firmware and mechanical info of the physicall gateway.
 There are other repositorys with other parts of the system: web2badge-website; web2badge-badge.
+
+Dependencies
+------------
+
+https://github.com/maniacbug/RF24
 
 License
 -------
