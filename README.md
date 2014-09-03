@@ -13,6 +13,13 @@ Dependencies
 ------------
 
 https://github.com/maniacbug/RF24
+Arduino Yun
+
+How to use
+----------
+
+change the url in accordance
+run :)
 
 License
 -------
